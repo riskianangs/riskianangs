@@ -1,16 +1,13 @@
-### Hi there 👋
+# Halo semua! 
 
-<!--
-**riskianangs/riskianangs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Riski Anang Saputra**.
 
-Here are some ideas to get you started:
+Saya **Alumni** [SMKN 1 BENDO MAGETAN](https://smkn1bendo.sch.id/) 2016.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya pernah bekerja di [PT.Langgeng Buana Jaya].
+sebagai **Quality Asurance** (2020-2021) kemudian menjadi **Finish Good Quality** Control (2021-2022) (http://lbjid.com/) .\
+Pada Januari 2022 saya juga pernah mendapatkan *Certified Auditor (CA) Level-II* dari [SKIPHOP](https://www.skiphop.com/).
+
+Sekarang saya seorang **Mahasiswa** di [Universitas Muhammadiyah Surakarta](https://www.ums.ac.id/).
+
+Jika ingin kenal lebih jauh denganku, silakan ikuti akun [Instagram](https://www.instagram.com/riski.ann_/) saya.
